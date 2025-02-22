@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Asset management and asset tracking software with check in check out. Track assets with custom asset tags and mobile apps." />
+    <meta name="keywords" content="Asset Management and Asset Tracking Software, Barcodes, QR-Codes, check out software"/>
+    <meta content="website" property="og:type" />
+    <meta content="https://www.reftab.com/" property="og:url" />
+    <meta content="https://www.reftab.com/img/reftab_logotype.jpg" property="og:image" />
+    <meta property="og:description" content="Asset tracking software with check in check out. Track assets with custom asset tags using mobile app with built-in barcode scanner." />
+    <meta content="Reftab LLC" property="og:site_name" />
+    <meta property="og:title" content="Reftab Asset Management Software" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@reftab" />
+    <meta name="theme-color" content="#00B233"/>
+    <link rel="icon" href="img/favicon-32x32.png"/>
+
+    <base href="/">
+    <title>Reftab: Asset Management Software - Simple & Intuitive</title>
+    <link rel="preload" as="font" type="font/woff2" crossorigin href="/style/fonts/fontawesome-webfont.woff2?v=4.7.0"/>
+    
+    <link href="style/style.css?v=1735850545" as="style" rel="stylesheet"/>
+
+    <link rel="preload" href="/js/views/ui/main.js" as="script" crossorigin="anonymous"/>
+    <link rel="preload" href="/js/views/ui/link.js" as="script" crossorigin="anonymous"/>
+
+    <script src="lib/vue.js"></script>
+    <script src="lib/vuex.js"></script>
+    <script src="lib/lightrouter.min.js"></script>
+    <script src="reftab.js?v=1735850545"></script>
+  </head>
+  <body>
+    <noscript>
+    	<h4>Reftab: Asset Management Software - Simple & Intuitive</h4>
+    	<div>Javascript is required to use Reftab.</div>
+    </noscript>
+    <div id="body"></div>
+    <script src="js/app.js"></script>
+    <script src="js/router.js"></script>
+
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://www.reftab.com",
+        "logo": "https://www.reftab.com/img/reftab_logotype.jpg",
+        "description":"Asset management software with check in and check out. Track assets with barcodes.",
+        "sameAs": [
+          "https://www.twitter.com/reftab"
+        ],
+        "contactPoint": [{
+          "@type": "ContactPoint",
+          "url": "https://www.reftab.com/contact",
+          "contactType": "Technical Support and Sales"
+        }]
+      }
+    </script>
+  </body>
+</html>

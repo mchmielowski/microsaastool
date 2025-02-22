@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitter Thread Generator</title>
+    <!-- For production, use a proper Tailwind installation or CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Add Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Add html2canvas for image export -->
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+</head>
+<body class="font-sans max-w-3xl mx-auto p-5 bg-gray-900 min-h-screen">
+    <h1 class="text-3xl font-bold mb-6 text-white">Twitter Thread Generator</h1>
+    <select id="companySelect" class="w-full p-2.5 mb-5 border rounded-lg bg-gray-800 text-white border-gray-700 focus:ring-blue-500 focus:border-blue-500">
+        <option value="" class="bg-gray-800">Select a company to generate thread</option>
+    </select>
+    <div id="threadContent" class="space-y-4"></div>
+    <script src="script.js"></script>
+</body>
+</html> 

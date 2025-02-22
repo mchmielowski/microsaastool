@@ -1,0 +1,307 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>PerfectSpace - A fintech and travel venture studio</title>
+    <meta name="description" content="A venture studio building fintech and travel companies - a factory for building startups">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="stylesheet" href="/css/app.css">
+    <script src="/js/head.js"></script>
+</head>
+
+<body>
+    <!--[if lt IE 8]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <header>
+        <div class="container">
+            <a href="/" class="logo" title="PerfectSpace"><img src="/images/logo.png" alt="PerfectSpace"><span>PerfectSpace</span></a>
+            <div class="head-right">
+                <a href="tel:6192708005" title="Give us a call">
+                    <img src="/images/icon-phone.svg" alt="Icon">
+                    <span>(619) 270-8005</span>
+                </a>
+                <a href="mailto:info@perfectspace.com" title="Email us">
+                    <img src="/images/icon-email.svg" alt="Icon">
+                    <span>info@perfectspace.com</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <section class="section-head section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h1>A factory for building startups - Venture studio building fintech and travel related companies</h1>
+                    <!-- <p>Let's partner, shall we?</p> -->
+                </div>
+                <div class="col-md-6">
+                    <div class="form-wrapper">
+                        <h2>We'd love to hear from you!</h2>
+                        <form action="https://formspree.io/f/info@perfectspace.com" method="POST">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <input type="text" name="name" placeholder="Name">
+                                </div>
+                                <div class="col-sm-6">
+                                    <input type="tel" placeholder="Phone">
+                                </div>
+                            </div>
+                            <input type="email" name="_replyto" placeholder="Email">
+                            <textarea name="About my project" placeholder="Tell us about your project…"></textarea>
+                            <input type="submit" value="Submit">
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section-text1 section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="section-big-img">
+                        <img src="/images/icon-1.svg" alt="Growth">
+                        <img src="/images/icon-2.svg" alt="Money exchanging">
+                    </div>
+                </div>
+                <div class="col-md-9">
+                    <div class="text">
+                        <h2 class="ctitle"><img src="/images/icon1.png" alt="PingBid logo">PingBid</h2>
+                        <h3>Experience the power of PingBid</h3>
+                        <p>Stop sending leads to just one buyer. Make more money with the same amount of leads with your own ping tree. PingBid is incredibly flexible, friendly and easy to use. We'll even help you get started!</p>
+                        <ul class="list-features">
+                            <li>
+                                <img src="/images/list1.svg" alt="Icon">
+                                <span>Drag &amp; Drop Buyer Organizer</span>
+                                Manage and manipulate your buyer order in seconds.
+                            </li>
+                            <li>
+                                <img src="/images/list2.svg" alt="Icon">
+                                <span>Completely Transparent</span>
+                                See who purchased your leads and for how much in one easy screen.
+                            </li>
+                            <li>
+                                <img src="/images/list3.svg" alt="Icon">
+                                <span>Bring Your Own Relationships</span>
+                                Have your own direct buyers? Great, we'll help you send to them too, as well as our own if you want.
+                            </li>
+                        </ul>
+                        <a href="https://pingbid.com" title="PingBid" class="button">Go to PingBid</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- <section class="section-text2 section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 order-md-2">
+                        <div class="section-big-img">
+                            <img src="/images/icon-3.svg" alt="Icon">
+                            <img src="/images/icon-4.svg" alt="Icon">
+                        </div>
+                    </div>
+                    <div class="col-md-9 order-md-1">
+                        <div class="text">
+                            <h2 class="ctitle"><img src="/images/icon2.png" alt="Icon">BudgetSetter</h2>
+                            <h3>Achieve your goals with BudgetSetter</h3>
+                            <p>Using a time-tested, tried and true budgeting system, BudgetSetter helps you save for tomorrow quicker than ever. Easy, secure, and fast.</p>
+                            <ul class="list-features">
+                                <li>
+                                    <img src="/images/list4.svg" alt="Icon">
+                                    <span>A Budget That Works</span>
+                                    Save more money with less effort.
+                                </li>
+                                <li>
+                                    <img src="/images/list1.svg" alt="Icon">
+                                    <span>Super Easy to Use</span>
+                                    Drag and drop. Plain and simple.
+                                </li>
+                                <li>
+                                    <img src="/images/list5.svg" alt="Icon">
+                                    <span>Auto-Import Everything</span>
+                                    We'll do the work for you by gathering all your transactions.
+                                </li>
+                            </ul>
+                            <a href="#" title="BudgetSetter" class="button">Go to BudgetSetter</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+
+    <!-- <section class="section-text2 section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="section-big-img">
+                            <img src="/images/icon-5.svg" alt="Icon">
+                            <img src="/images/icon-6.svg" alt="Icon">
+                        </div>
+                    </div>
+                    <div class="col-md-9">
+                        <div class="text">
+                            <h2 class="ctitle"><img src="/images/icon3.png" alt="Icon">BenevolenceFund</h2>
+                            <h3>Help more people starting today</h3>
+                            <p>BenevolenceFund.io helps you collaborate with your community, getting assistance to the needy faster than ever. Forget the paper and phone calls.</p>
+                            <ul class="list-features">
+                                <li>
+                                    <img src="/images/list6.svg" alt="Icon">
+                                    <span>Bank Level Security</span>
+                                    Protected by 256-bit encryption, just like the biggest banks in the world.
+                                </li>
+                                <li>
+                                    <img src="/images/list7.svg" alt="Icon">
+                                    <span>Community Sharing</span>
+                                    Share activity with other organizations to increase community transparency.
+                                </li>
+                                <li>
+                                    <img src="/images/list8.svg" alt="Icon">
+                                    <span>Free Support</span>
+                                    Need some help? Don't worry. We're here for you via email, phone, and more.
+                                </li>
+                            </ul>
+                            <a href="https://benevolencefund.io" title="BenevolenceFund" class="button">Go to BenevolenceFund</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+
+    <section class="section-text2 section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 order-md-2">
+                    <div class="section-big-img">
+                        <img src="/images/icon-4.svg" alt="Tablet and mobile">
+                        <img src="/images/icon-2.svg" alt="Money exchanging">
+                    </div>
+                </div>
+                <div class="col-md-9 order-md-1">
+                    <div class="text">
+                        <h2 class="ctitle"><img src="/images/logo-roomsteals.png" alt="Room Steals logo" width="50">RoomSteals</h2>
+                        <h3>Spend less on hotels, travel more.</h3>
+                        <p>A more affordable way to travel and book hotels. RoomSteals doesn't add margin or take commission. Through an annual subscription you can book wholesale hotel rates on over 600,000 hotels worldwide.</p>
+                        <ul class="list-features">
+                            <li>
+                                <img src="/images/list2.svg" alt="Icon">
+                                <span>Chrome Extension</span>
+                                While visiting your favorite travel sites, our Chrome extension will show you the wholesale rates you could be missing.
+                            </li>
+                            <li>
+                                <img src="/images/list4.svg" alt="Icon">
+                                <span>Save Money on Hotels</span>
+                                On average our members save 25% on hotel rates. Sometimes as much as 95%!
+                            </li>
+                            <li>
+                                <img src="/images/list5.svg" alt="Icon">
+                                <span>Get Notified</span>
+                                Get an email when a 4 or 5 star hotel in your area is offering more than 40% off by subscribing to Staycations Steals.
+                            </li>
+                        </ul>
+                        <a href="https://roomsteals.com?utm_source=perfectspace" title="RoomSteals" class="button">Go to RoomSteals</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section-text1 section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="section-big-img">
+                        <img src="/images/icon-4.svg" alt="Tablet and mobile">
+                        <img src="/images/icon-2.svg" alt="Money exchanging">
+                    </div>
+                </div>
+                <div class="col-md-9">
+                    <div class="text">
+                        <h2 class="ctitle"><img src="/images/logo-tidyreservations.svg" width="80" alt="Tidy Reservations">TidyReservations</h2>
+                        <h3>Your customers book hotels. You earn.</h3>
+                        <p>Why send your customers to buy their hotels from the big guys when you can send them to Tidy Reservations and earn a share of the revenue?
+                        </p>
+                        <ul class="list-features">
+                            <li>
+                                <img src="/images/list1.svg" alt="Icon">
+                                <span>Your brand. Tidy tech.</span>
+                                Insert your brand into our technology for a seamless white labeled hotel booking experience. Setup is easy. Support is handled for you.
+                            </li>
+                            <li>
+                                <img src="/images/list4.svg" alt="Icon">
+                                <span>Revenue share</span>
+                                Partners earn a share of the revenue from each hotel reservation made through our white label technology.
+                            </li>
+                            <li>
+                                <img src="/images/list3.svg" alt="Icon">
+                                <span>Unparalleled support for your customers</span>
+                                We will make sure each customer's experience is great from the booking process until check out.
+                            </li>
+                        </ul>
+                        <a href="https://tidyreservations.com" title="TidyReservations" class="button">Go to TidyReservations</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section-text2 section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 order-md-2">
+                    <div class="section-big-img">
+                        <img src="/images/icon-4.svg" alt="Tablet and mobile">
+                        <img src="/images/icon-6.svg" alt="Coin in hand">
+                    </div>
+                </div>
+                <div class="col-md-9 order-md-1">
+                    <div class="text">
+                        <h2 class="ctitle"><img src="/images/icon1-transparent-bg.png" alt="CardHacking logo">CardHacking</h2>
+                        <h3>Track credit card spend requirements and annual fees</h3>
+                        <p>Tracking credit cards spending requirements
+                            and annual fees is a pain. Let us do that for you.
+                            As easy as 1-2-3.</p>
+                        <ul class="list-features">
+                            <li>
+                                <img src="/images/list4.svg" alt="Icon">
+                                <span>Earn Reward Travel</span>
+                                Earn miles/points with less effort.
+                            </li>
+                            <li>
+                                <img src="/images/list6.svg" alt="Icon">
+                                <span>Safe and Secure</span>
+                                Bank-level security by default.
+                            </li>
+                            <li>
+                                <img src="/images/list2.svg" alt="Icon">
+                                <span>Get Notified</span>
+                                We'll let you know when you've earned the points,
+                                and before a fee is coming.
+                            </li>
+                        </ul>
+                        <a href="https://cardhacking.com" title="CardHacking" class="button">Go to CardHacking</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <a href="/" title="PerfectSpace" class="logo"><img src="/images/icon4.png" alt="PerfectSpace"><span>PerfectSpace</span></a>
+            <p>&copy; Perfect Space, 2025.</p>
+        </div>
+    </footer>
+
+    <script src="/js/app.js"></script>
+</body>
+
+</html>
