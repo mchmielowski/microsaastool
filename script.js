@@ -228,14 +228,6 @@ function createChart(chartData, logoPath) {
                         color: '#666'
                     }
                 }
-            },
-            layout: {
-                padding: {
-                    top: 40,  // Add more padding at the top for the logo
-                    right: 20,
-                    bottom: 20,
-                    left: 20
-                }
             }
         },
         plugins: [{
